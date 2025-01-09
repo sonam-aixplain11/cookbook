@@ -47,11 +47,14 @@ To maintain the highest quality standards, submissions are reviewed using the fo
 
 ## Pro Tips for Contributors
 🎯 Be Clear: Avoid overly complex explanations. Simplicity wins every time.
+
 💡 Show Examples: Code snippets, diagrams, or visual aids help convey your ideas effectively.
+
 🛠️ Test Your Code: Make sure your examples execute without errors and produce the expected results.
+
 📖 Cite Sources: If you’re building on external work, give proper credit.
 
 ## 🌍 Let’s Build Together!
-We can’t wait to see the brilliant ideas you bring to the table. Whether it’s a practical recipe, a creative workflow, or cutting-edge techniques, your contributions make the aiXplain Cookbook even better. Thank you for being part of our community! 💖
+We can’t wait to see the brilliant ideas you bring to the table. Whether it’s a practical recipe, a creative workflow, or cutting-edge techniques, your contributions make the aiXplain Cookbook even better. Thank you for being part of our community!
 
 Let’s cook up something amazing! ✨
